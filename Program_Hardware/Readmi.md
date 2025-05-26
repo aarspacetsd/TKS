@@ -128,3 +128,8 @@ DB_CONFIG = {
 
 
 
+![alt text](../docs/S3.png)
+![alt text](../docs/prog_parsing.png)
+![alt text](../docs/non_wifi.png)
+![alt text](../docs/hardware.jpg)
+![alt text](../docs/db.png)

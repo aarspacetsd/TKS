@@ -1,7 +1,7 @@
 import paho.mqtt.client as mqtt
 import time
 
-MQTT_BROKER = 'localhost'   # Samakan dengan broker program utama
+MQTT_BROKER = '35.173.244.119'   # Samakan dengan broker program utama
 MQTT_PORT = 1883
 MQTT_TOPIC = 'sensor/csv'
 

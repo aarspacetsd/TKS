@@ -11,11 +11,11 @@ DEST_FOLDER = './S3'
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'your_mysql_password',
+    'password': 'AhmadAkmal12@',
     'database': 'sensor_db'
 }
 
-MQTT_BROKER = 'localhost'  # Ganti sesuai broker MQTT-mu
+MQTT_BROKER = '35.173.244.119'  # Ganti sesuai broker MQTT-mu
 MQTT_PORT = 1883
 MQTT_TOPIC = 'sensor/csv'
 
